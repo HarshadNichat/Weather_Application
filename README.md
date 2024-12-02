@@ -1,4 +1,3 @@
-![Weather2](https://github.com/user-attachments/assets/de303262-b311-4259-b77f-cd5f003208ac)
 
 ### **Weather Application**
 
@@ -6,9 +5,9 @@ A simple and user-friendly **Weather Application** built with modern web technol
 
 ---
 
-![Weather3](https://github.com/user-attachments/assets/f7e7b9b3-ed98-4109-821a-c32ac98bb5ef)
-####**Images![Weather1](https://github.com/user-attachments/assets/a0a575c2-165a-4d71-8f36-9a8d92a6995e)
+####**Image**
 
+![Weather3](https://github.com/user-attachments/assets/f7e7b9b3-ed98-4109-821a-c32ac98bb5ef)
 
 ![Weather1](https://github.com/user-attachments/assets/f2ca9276-8417-4727-95cb-4e7cd7c23474)
 
