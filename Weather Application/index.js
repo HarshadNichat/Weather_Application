@@ -1,67 +1,4 @@
 
-
-// const API_KEY = "0dd8a0a08341bf2fea9683c4411a519b";
-
-
-
-// // For UI update
-// function renderWeatherInfo(data){
-//   let newPara = document.createElement('p');
-//   newPara.textContent = `${data?.main?.temp.toFixed(2)} °C`
-//   document.body.appendChild(newPara);
-    
-// }
-
-// async function showWeather() {
-
-//   try{
-//     let city = "Goa";
-
-//     // API call to OpenWeatherMap
-//     let response = await fetch(
-//       `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric`
-//     );
-
-//     let data = await response.json();
-//     console.log("Weather Data:", data);
-//     renderWeatherInfo(data);
-//   }
-
-//   catch(err){
-//     console.log("error" , err)
-//   }
-    
-
-//   }
-
-
-
-//   // get your current location 
-
-//   function getLocation()
-//   {
-//     if(navigator.getLocation)
-//   {
-//     navigator.geolocation.getCurrentPosition(showPosition);
-//   }
-//   else{
-//     console.log("No geoLocation Support")
-//   }
-// }
-
-//   function showPosition(position)
-//   {
-//     let lat = position.coords.latitude;
-//     let longi = position.coords.longitude;
-
-//     console.log(lat);
-//     console.log(longi)
-//   }
-
-
-
-  // ************************************************************
-
   const userTab = document.querySelector("[data-useWeather]");
   const searchTab = document.querySelector("[data-searchWeather]");
   const userContainer = document.querySelector(".grant-location-container");
@@ -72,7 +9,7 @@
 
 // initialization 
   let currentTab = userTab;
-  const API_KEY = "0dd8a0a08341bf2fea9683c4411a519b";
+  const API_KEY = " ";       //insert Your weather api key 
   currentTab.classList.add("current-tab");
   getfromSeessionStorage();
   
