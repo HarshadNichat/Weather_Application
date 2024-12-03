@@ -5,7 +5,7 @@ A simple and user-friendly **Weather Application** built with modern web technol
 
 ---
 
-#### **Image**
+#### **Images**
 
 ![Weather3](https://github.com/user-attachments/assets/f7e7b9b3-ed98-4109-821a-c32ac98bb5ef)
 
